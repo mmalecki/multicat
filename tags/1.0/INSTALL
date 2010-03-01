@@ -1,0 +1,7 @@
+$Id: INSTALL 93 2010-01-03 13:07:23Z gatty $
+
+Installing Multicat
+===================
+
+No autotools yet... You'd have to tweak the Makefile by hand. Compile the
+program with `make`. and install with `make install`.
